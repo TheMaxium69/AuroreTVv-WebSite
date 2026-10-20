@@ -1,0 +1,20 @@
+/* CLIENTE */
+AuroreTVv - VTubeuse & monteuse vidéo (EI)
+Site : https://www.auroretvv.fr
+Twitch : https://www.twitch.tv/auroretvv
+
+/* CONCEPTION & DÉVELOPPEMENT */
+Tyrolium
+Site : https://tyrolium.fr
+Contact : contact@tyrolium.fr
+
+/* HÉBERGEMENT */
+SolidServ (Tyrolium)
+Site : https://solidserv.fr
+Serveurs : France
+
+/* SITE */
+Dernière mise à jour : 2026/10/21
+Langue : français
+Technologies : HTML5, CSS3, JavaScript
+Polices : Outfit, DM Sans (Google Fonts)

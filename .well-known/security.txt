@@ -1,0 +1,8 @@
+# AuroreTVv - https://www.auroretvv.fr
+# Site conçu par Tyrolium, hébergé par SolidServ.
+# Merci de signaler toute vulnérabilité de manière responsable à l'adresse ci-dessous.
+
+Contact: mailto:contact@tyrolium.fr
+Expires: 2027-10-21T00:00:00.000Z
+Preferred-Languages: fr, en
+Canonical: https://www.auroretvv.fr/.well-known/security.txt

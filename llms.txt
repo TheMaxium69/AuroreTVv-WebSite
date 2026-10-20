@@ -1,0 +1,41 @@
+# AuroreTVv
+
+> AuroreTVv est une VTubeuse française et une monteuse vidéo indépendante (entreprise individuelle). Elle monte des vidéos longues pour YouTube et des formats verticaux pour YouTube Shorts, TikTok et Instagram Reels, pour les créateurs et créatrices de contenu : streamers, VTubers, vidéastes gaming et face caméra. Ce site est son portfolio.
+
+## L'essentiel
+
+- Métier : monteuse vidéo (montage et post-production) et VTubeuse en live
+- Statut : entreprise individuelle (EI) française, nom commercial AuroreTVv
+- Formats : vidéos longues 16:9 (gaming, let's play, best-of de stream, storytime, face caméra, vidéos VTuber) et vidéos verticales 9:16 (Shorts, TikTok, Reels, clips de stream, teasers)
+- Compétences : dérushage et rythme, sous-titres dynamiques, musique et sound design, habillage et étalonnage, recadrage vertical, mise en valeur d'avatars Live2D / 3D
+- Clientèle : créateurs de contenu francophones, VTubers et streamers en particulier
+- Travail : 100 % à distance ; rushs envoyés par lien de téléchargement ou lien de VOD Twitch / YouTube
+- Tarifs : sur devis gratuit, selon la durée des rushs, la durée finale, l'habillage et le délai
+- Droits : la vidéo finale appartient au client ; elle n'est montrée dans le portfolio qu'avec son accord
+
+## Comment travailler avec elle
+
+1. Envoyer ses rushs ou le lien de sa VOD, avec ses références
+2. Recevoir une première version dans le délai convenu
+3. Ajuster selon ses retours, puis recevoir le fichier prêt à publier
+
+Contact : formulaire du site ou contact@auroretvv.fr
+
+## Pages
+
+- [Portfolio](https://www.auroretvv.fr/) : montages longs, montages verticaux, compétences, à propos, FAQ et formulaire de contact
+- [Montages longs](https://www.auroretvv.fr/#montages-longs)
+- [Montages verticaux](https://www.auroretvv.fr/#montages-verticaux)
+- [Contact](https://www.auroretvv.fr/#contact)
+- [Mentions légales](https://www.auroretvv.fr/mentions-legales.html)
+
+## Réseaux
+
+- Twitch : https://www.twitch.tv/auroretvv
+- YouTube : https://www.youtube.com/@AuroreTVv
+- TikTok : https://www.tiktok.com/@auroretvv
+
+## Site
+
+- Conception : Tyrolium (https://tyrolium.fr)
+- Hébergement : SolidServ (https://solidserv.fr), serveurs en France
